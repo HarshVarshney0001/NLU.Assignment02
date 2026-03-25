@@ -6,7 +6,9 @@
 --run - install 
 
 pip install wordcloud
+
 pip install gensim
+
 pip install scikit-learn
 
 run 
